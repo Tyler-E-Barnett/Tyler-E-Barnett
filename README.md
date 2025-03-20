@@ -40,13 +40,3 @@ Set up and maintained CI/CD pipelines to streamline development workflows.
 
 Extensive experience developing custom applications, scripts, integrations, and reports within the FileMaker platform.
 
-🔗 Let's Connect
-
-I'm always eager to collaborate or discuss exciting projects. Feel free to reach out!
-
-GitHub
-
-LinkedIn
-
-Email
-
